@@ -1,5 +1,7 @@
 ??because this is a current function and it needs to be called twice
 
+<b>Any component wrapped with connect() call will receive a dispatch function as a prop, and any state it needs from the global state.</b>
+
 ## tags 
 
 

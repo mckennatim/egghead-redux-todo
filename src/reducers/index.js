@@ -47,5 +47,6 @@ const visibilityFilter = (state = 'SHOW_ALL', action) => {
 };
 
 const todoApp = combineReducers({todos, visibilityFilter});
-
+console.log(todoApp)
+//console.log(state)
 export {todoApp};
